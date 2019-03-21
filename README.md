@@ -4,3 +4,4 @@ This idea appears When I saw [Fluttery](https://www.youtube.com/channel/UCtWyVkP
 
 - [x] [Egg Timer](https://github.com/jie1ong/rn_egg_timer) 🥚⏰
 - [x] [TabBar](https://github.com/jie1ong/can-it-be-done-in-react-native/tree/master/tabbar)
+- [x] [Custom Refresh Control](https://github.com/jie1ong/can-it-be-done-in-react-native/tree/master/CustomRefreshControl)
