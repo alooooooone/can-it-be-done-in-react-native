@@ -101,7 +101,6 @@ export default class App extends Component {
             <Text>Header</Text>
           </View>
           <AnimatedFlatList
-            onLayout={e => console.log(e.nativeEvent)}
             ref={ref => this.flatListRef = ref}
             {...this._panResponder.panHandlers}
             contentContainerStyle={{ position: 'relative' }}
